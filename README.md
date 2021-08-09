@@ -1,16 +1,17 @@
 <h2 align="center">🐱‍💻Hello There, my name is Paulo Cezar🐱‍👤</h2>
 
-
+<div align="center">
 - 🔭 I’m currently working on FrontEnd
 - 🌱 I’m currently learning JavaScript and ReactJS
 - 🐱‍👓 Trying to learn as much as possible
 - 💼 Currently intern at Compasso Uol 
 - 📚 Computer Science Academic
 - 🥊 20 Years
+<br></br>
 
-<div>
+<div align="center">
   <a href="https://github.com/Paulo-Fritsch">
-  <img align="center" height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-fritsch&theme=outrun"/>
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-fritsch&theme=outrun"/>
 </div>
 
 <div style="display: inline_block"><br>
