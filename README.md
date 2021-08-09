@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning JavaScript and ReactJS
 - 🐱‍👓 Trying to learn as much as possible
 - 💼 Currently intern at Compasso Uol 
+- 📚 Computer Science Academic
+- 🥊 20 Years
 
 <div>
   <a href="https://github.com/Paulo-Fritsch">
