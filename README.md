@@ -1,12 +1,11 @@
 <h2 align="center">🐱‍💻Hello There, my name is Paulo Cezar🐱‍👤</h2>
 
 
-- 🔭 I’m currently working on FrontEnd
-- 🌱 I’m currently learning JavaScript and ReactJS
+- 🔭 I’m currently working on FrontEnd JS and Backend C#.net
 - 🐱‍👓 Trying to learn as much as possible
-- 💼 Currently intern at Compasso Uol 
+- 💼 Currently FullStack On ABASE SISTEMAS LTDA
 - 📚 Computer Science Academic
-- 🥊 20 Years
+- 🥊 23 Years
 <br></br>
 
 <div align="center">
