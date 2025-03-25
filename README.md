@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on FrontEnd JS and Backend C#.net
 - 🐱‍👓 Trying to learn as much as possible
-- 💼 Currently FullStack  ABASE SISTEMAS LTDA
 - 📚 Computer Science Academic
 - 🥊 23 Years
 <br></br>
