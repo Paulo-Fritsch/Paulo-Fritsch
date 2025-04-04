@@ -1,4 +1,6 @@
-<h2 align="center">🐱‍💻Hello There, my name is Paulo Cezar🐱‍👤</h2>
+<p align="center">
+  <img src="./steampunk-banner.png" alt="Welcome Banner" style="width: 100%; max-width: 100px;" />
+</p>
 
 
 - 🔭 I’m currently working on FrontEnd JS and Backend C#.net
